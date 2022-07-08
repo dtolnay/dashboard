@@ -248,4 +248,8 @@ It is disappointing that GitHub does not natively provide this.
   <td><kbd><b><a href="https://github.com/dtolnay/unicode-ident">dtolnay/unicode-ident</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/unicode-ident/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/unicode-ident/CI/master?style=for-the-badge"></a></td>
 </tr>
+<tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/unsafe-libyaml">dtolnay/unsafe-libyaml</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/unsafe-libyaml/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/unsafe-libyaml/CI/master?style=for-the-badge"></a></td>
+</tr>
 </table>
