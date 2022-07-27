@@ -109,12 +109,20 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/install/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/install/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/inventory">dtolnay/inventory</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/inventory/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/inventory/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/itoa">dtolnay/itoa</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/itoa/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/itoa/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
   <td><kbd><b><a href="https://github.com/dtolnay/link-cplusplus">dtolnay/link-cplusplus</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/link-cplusplus/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/link-cplusplus/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/linkme">dtolnay/linkme</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/linkme/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/linkme/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
   <td><kbd><b><a href="https://github.com/dtolnay/miniserde">dtolnay/miniserde</a></b></kbd></td>
@@ -243,6 +251,10 @@ It is disappointing that GitHub does not natively provide this.
 <tr>
   <td><kbd><b><a href="https://github.com/dtolnay/trybuild">dtolnay/trybuild</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/trybuild/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/trybuild/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/typetag">dtolnay/typetag</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/typetag/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/typetag/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
   <td><kbd><b><a href="https://github.com/dtolnay/unicode-ident">dtolnay/unicode-ident</a></b></kbd></td>
