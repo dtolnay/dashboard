@@ -137,6 +137,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/noisy-clippy/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/noisy-clippy/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/no-panic">dtolnay/no-panic</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/no-panic/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/no-panic/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/oqueue">dtolnay/oqueue</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/oqueue/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/oqueue/CI/master?style=for-the-badge"></a></td>
 </tr>
