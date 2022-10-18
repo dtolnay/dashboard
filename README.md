@@ -61,6 +61,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/db-dump/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/db-dump/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/dircnt">dtolnay/dircnt</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/dircnt/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/dircnt/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/dissimilar">dtolnay/dissimilar</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/dissimilar/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/dissimilar/CI/master?style=for-the-badge"></a></td>
 </tr>
