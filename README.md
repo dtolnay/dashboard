@@ -121,6 +121,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/itoa/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/itoa/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/libfyaml-rs">dtolnay/libfyaml-rs</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/libfyaml-rs/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/libfyaml-rs/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/link-cplusplus">dtolnay/link-cplusplus</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/link-cplusplus/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/link-cplusplus/CI/master?style=for-the-badge"></a></td>
 </tr>
