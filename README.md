@@ -189,6 +189,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/ref-cast/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/ref-cast/CI/master?style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/reflect">dtolnay/reflect</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/reflect/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/reflect/CI/master?style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/remain">dtolnay/remain</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/remain/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/dtolnay/remain/CI/master?style=for-the-badge"></a></td>
 </tr>
