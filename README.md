@@ -197,6 +197,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/remain/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/remain/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/respan">dtolnay/respan</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/respan/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/respan/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/rust-quiz">dtolnay/rust-quiz</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/rust-quiz/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/rust-quiz/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
