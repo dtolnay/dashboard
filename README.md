@@ -97,6 +97,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/faketty/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/faketty/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/get-all-crates">dtolnay/get-all-crates</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/get-all-crates/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/get-all-crates/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/ghost">dtolnay/ghost</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/ghost/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/ghost/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
