@@ -249,6 +249,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/serde-stacker/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/serde-stacker/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/serde-starlark">dtolnay/serde-starlark</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/serde-starlark/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/serde-starlark/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/serde-yaml">dtolnay/serde-yaml</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/serde-yaml/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
