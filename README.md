@@ -261,6 +261,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/sha1dir/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/sha1dir/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/squatternaut">dtolnay/squatternaut</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/squatternaut/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/squatternaut/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/star-history">dtolnay/star-history</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/star-history/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/star-history/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
