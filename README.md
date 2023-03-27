@@ -29,6 +29,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/bufsize/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/bufsize/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/build-alert">dtolnay/build-alert</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/build-alert/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/build-alert/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/cargo-expand">dtolnay/cargo-expand</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/cargo-expand/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/cargo-expand/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
