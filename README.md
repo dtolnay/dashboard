@@ -129,6 +129,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/install/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/install/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/install-buck2">dtolnay/install-buck2</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/install-buck2/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/install-buck2/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/inventory">dtolnay/inventory</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/inventory/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/inventory/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
