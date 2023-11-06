@@ -93,6 +93,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/dyn-clone/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/dyn-clone/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/dyn-hash">dtolnay/dyn-hash</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/dyn-hash/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/dyn-hash/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/enumn">dtolnay/enumn</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/enumn/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/enumn/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
