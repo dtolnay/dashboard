@@ -297,6 +297,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/syn/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/syn/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/target-triple">dtolnay/target-triple</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/target-triple/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/target-triple/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/thiserror">dtolnay/thiserror</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/thiserror/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/thiserror/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
