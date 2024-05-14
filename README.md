@@ -317,6 +317,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/trybuild/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/trybuild/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/typeid">dtolnay/typeid</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/typeid/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/typeid/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/typetag">dtolnay/typetag</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/typetag/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/typetag/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
