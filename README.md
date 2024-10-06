@@ -281,10 +281,6 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/serde-untagged/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/serde-untagged/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/dtolnay/serde-yaml">dtolnay/serde-yaml</a></b></kbd></td>
-  <td><a href="https://github.com/dtolnay/serde-yaml/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/serde-yaml/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/sha1dir">dtolnay/sha1dir</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/sha1dir/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/sha1dir/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
