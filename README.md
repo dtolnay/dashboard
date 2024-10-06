@@ -181,10 +181,6 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/oqueue/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/oqueue/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/dtolnay/paste">dtolnay/paste</a></b></kbd></td>
-  <td><a href="https://github.com/dtolnay/paste/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/paste/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/path-to-error">dtolnay/path-to-error</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/path-to-error/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/path-to-error/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
