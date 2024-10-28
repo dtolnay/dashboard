@@ -45,12 +45,12 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/cargo-llvm-lines/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/cargo-llvm-lines/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/dtolnay/cargo-rm">dtolnay/cargo-rm</a></b></kbd></td>
-  <td><a href="https://github.com/dtolnay/cargo-rm/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/cargo-rm/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/cargo-tally">dtolnay/cargo-tally</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/cargo-tally/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/cargo-tally/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/cargo-unlock">dtolnay/cargo-unlock</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/cargo-unlock/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/cargo-unlock/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
   <td><kbd><b><a href="https://github.com/dtolnay/case-studies">dtolnay/case-studies</a></b></kbd></td>
