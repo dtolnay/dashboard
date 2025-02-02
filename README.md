@@ -153,6 +153,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/linkme/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/linkme/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/macro-string">dtolnay/macro-string</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/macro-string/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/macro-string/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/miniserde">dtolnay/miniserde</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/miniserde/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/miniserde/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
