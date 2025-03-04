@@ -21,10 +21,6 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/automod/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/automod/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/dtolnay/basic-toml">dtolnay/basic-toml</a></b></kbd></td>
-  <td><a href="https://github.com/dtolnay/basic-toml/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/basic-toml/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/bufsize">dtolnay/bufsize</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/bufsize/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/bufsize/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
