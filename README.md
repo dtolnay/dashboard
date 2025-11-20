@@ -165,10 +165,6 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/monostate/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/monostate/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/dtolnay/noisy-clippy">dtolnay/noisy-clippy</a></b></kbd></td>
-  <td><a href="https://github.com/dtolnay/noisy-clippy/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/noisy-clippy/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/no-panic">dtolnay/no-panic</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/no-panic/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/no-panic/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
