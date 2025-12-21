@@ -169,6 +169,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/no-panic/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/no-panic/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/opt-level">dtolnay/opt-level</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/opt-level/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/opt-level/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/oqueue">dtolnay/oqueue</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/oqueue/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/oqueue/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
