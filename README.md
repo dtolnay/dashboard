@@ -85,6 +85,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/dtoa/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/dtoa/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/dtoa-benchmark">dtolnay/dtoa-benchmark</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/dtoa-benchmark/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/dtoa-benchmark/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/dyn-clone">dtolnay/dyn-clone</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/dyn-clone/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/dyn-clone/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
