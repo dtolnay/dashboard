@@ -45,6 +45,10 @@ It is disappointing that GitHub does not natively provide this.
   <td><a href="https://github.com/dtolnay/case-studies/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/case-studies/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
+  <td><kbd><b><a href="https://github.com/dtolnay/chapter-tgz">dtolnay/chapter-tgz</a></b></kbd></td>
+  <td><a href="https://github.com/dtolnay/chapter-tgz/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/chapter-tgz/ci.yml?branch=master&style=for-the-badge"></a></td>
+</tr>
+<tr>
   <td><kbd><b><a href="https://github.com/dtolnay/clang-ast">dtolnay/clang-ast</a></b></kbd></td>
   <td><a href="https://github.com/dtolnay/clang-ast/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/dtolnay/clang-ast/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
